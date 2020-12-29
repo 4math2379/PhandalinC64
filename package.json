@@ -1,0 +1,11 @@
+{
+  "name": "ddc64",
+  "version": "1.0.0",
+  "description": "a c64 code for pure fun purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rahma sinien",
+  "license": "ISC"
+}
